@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AyaTwfeek/musement-challenge/issues"
   },
-  "homepage": "https://github.com/AyaTwfeek/musement-challenge#readme"
+  "homepage": "https://github.com/AyaTwfeek/musement-challenge#readme",
+  "devDependencies": {
+    "testcafe": "^2.1.0"
+  }
 }
